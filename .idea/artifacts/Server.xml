@@ -4,7 +4,7 @@
     <root id="archive" name="Server.jar">
       <element id="module-output" name="Server" />
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/ProcessFast/src/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/Server/src/META-INF/MANIFEST.MF" />
       </element>
     </root>
   </artifact>
